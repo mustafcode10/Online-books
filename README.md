@@ -1,5 +1,5 @@
 
-
+ ### Online Books
 ### created by mustaf https://somali-library.netlify.app/
 ###  https://mustaf1.netlify.app/contact
 <img src="image/somali-library.jpeg">
@@ -7,8 +7,7 @@
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
- https://www.youtube.com/watch?v=kL3H-wTWPSQ
+
 
 ## Available Scripts
 
